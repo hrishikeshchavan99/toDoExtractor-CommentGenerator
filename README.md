@@ -8,7 +8,7 @@ AI model: gpt2, microsoft/codebert-base <br>
 
 
 <b>Setup:</b>
-1) install React, Node JS, Java, Python, Flask
+1) Install React, Node JS, Java, Python, Flask
 
 <b>How to run</b><br>
 UI

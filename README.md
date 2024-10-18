@@ -1,14 +1,16 @@
 # toDoExtractor-CommentGenerator
 
-Tech Stack:
-UI: React, Javascript, HTML, CSS, Node 
-Backend: Java, Spring boot, web API 
-Service for AI model: Python, Flask, flask_cors, transformers 
-AI model: gpt2, microsoft/codebert-base
+<b>Tech Stack</b>:<br>
+UI: React, Javascript, HTML, CSS, Node <br>
+Backend: Java, Spring boot, web API <br>
+Service for AI model: Python, Flask, flask_cors, transformers <br>
+AI model: gpt2, microsoft/codebert-base <br>
 
 
-Setup:
+<b>Setup:</b>
+1) install React, Node JS, Java, Python, Flask
 
+<b>How to run</b><br>
 UI
 1) Open terminal, cd to UI folder todo-comment-ui
 2) Run npm install. This will add node_modules folder in current folder

@@ -1,4 +1,4 @@
-# toDoExtractor-CommentGenerator
+# To Do Extractor-Comment Generator
 
 <b>Tech Stack</b>:<br>
 UI: React, Javascript, HTML, CSS, Node <br>
